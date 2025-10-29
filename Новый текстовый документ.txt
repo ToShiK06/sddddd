@@ -1,0 +1,18 @@
+https://github.com/ToShiK06/sddddd.git
+
+npm init -y
+npm install express sqlite3 bcryptjs jsonwebtoken cors multer path
+npm install -D nodemon
+
+
+
+
+"scripts": {
+  "start": "node server.js",
+  "dev": "nodemon server.js"
+}
+
+
+
+
+npm install axios react-router-dom
